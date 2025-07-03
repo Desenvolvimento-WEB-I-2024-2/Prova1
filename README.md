@@ -26,7 +26,7 @@ O código a seguir possui diversos erros que devem ser corrigidos. O objetivo é
 ---
 
 ## Instruções para entrega
-- Compacte o arquivo em um zip e envie via AVA.
+- Compacte o arquivo em um zip e envie via AVA ou link do github.
 ---
 
 
