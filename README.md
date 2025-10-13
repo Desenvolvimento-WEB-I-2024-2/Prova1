@@ -15,10 +15,10 @@ Você recebeu um código com **diversos bugs e erros** que precisam ser corrigid
 - `script.js`
 - `styles.css`
 
-Além disso, há um arquivo **`API_SIMPLES.zip`** na raiz do projeto que contém uma API REST simples para gerenciar os itens. **Você deve descompactar este arquivo e executar a API** para que o CRUD funcione corretamente.
+Além disso, há um arquivo **`API.zip`** na raiz do projeto que contém uma API REST simples para gerenciar os itens. **Você deve descompactar este arquivo e executar a API** para que o CRUD funcione corretamente.
 
 ### ⚠️ Importante sobre a API:
-- Descompacte o arquivo `API_SIMPLES.zip`
+- Descompacte o arquivo `API.zip`
 - A aplicação frontend (pasta `Prova/`) deve se comunicar com esta API
 
 ---
@@ -43,7 +43,7 @@ Seu código corrigido deve reproduzir **exatamente** esses fluxos e funcionalida
 
 ## O que você deve fazer:
 
-1. **Descompactar e executar a API** (`API_SIMPLES.zip`)
+1. **Descompactar e executar a API** (`API.zip`)
 2. **Analisar o código** na pasta `Prova/` e encontrar os erros de:
    - Sintaxe JavaScript/HTML/CSS
    - Lógica de programação
