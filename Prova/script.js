@@ -1,4 +1,4 @@
-const apiUrl = 'http://localhost:3000/items'; // URL da API
+const apiUrl = 'http://192.168.15.22:3000/items'; // URL da API
 
 document.addEventListener('DOMContentLoaded', () => {
     // Referências para os elementos da página
