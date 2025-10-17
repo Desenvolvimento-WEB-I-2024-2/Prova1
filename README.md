@@ -73,7 +73,7 @@ A prova será avaliada de acordo com o seu **progresso na resolução dos proble
 
 ## Instruções para Entrega:
 
-- Envie o lonk do **link do GitHub**
+- Envie o **link do GitHub**
 - Apnas os 3 arquivos (html, css e js)
 - Não envie a API;
 
