@@ -73,9 +73,9 @@ A prova será avaliada de acordo com o seu **progresso na resolução dos proble
 
 ## Instruções para Entrega:
 
-- Compacte os arquivos corrigidos (pasta `Prova/`) em um arquivo `.zip`
 - Envie o lonk do **link do GitHub**
-- Certifique-se de que a API está incluída ou que há instruções claras sobre como executá-la
+- Apnas os 3 arquivos (html, css e js)
+- Não envie a API;
 
 ---
 
